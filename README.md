@@ -2,11 +2,13 @@
 ## Description
 The package for Posting training quantization on Vision Transformer, based on Sense time's framework for quantization:ppq  
 Just run example.py to start the quantization pipeline  
+Note that the quantization pakage is in branch master  
 ## Tool Version
 onnx 1.14.0  
 torch 2.0.1  
 protobuf 3.20.3  
 ppq 0.6.6  
+python 3.8  
 ## Diagram  
 The diagram for implementing the ppq framework on quantization
 ![diagram](img/diagram.png)

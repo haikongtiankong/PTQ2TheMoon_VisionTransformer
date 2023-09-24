@@ -8,5 +8,5 @@ torch 2.0.1
 protobuf 3.20.3  
 ## Diagram  
 The diagram for implementing the ppq framework on quantization
-<img src="img/diagram.png" width="50%" height="50%" ha="left">  
+<img src="img/diagram.png" width="50%" height="50%" align="left">  
 

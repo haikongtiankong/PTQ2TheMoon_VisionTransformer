@@ -6,6 +6,6 @@ Just run example.py to start the quantization pipeline
 onnx 1.14.0  
 torch 2.0.1  
 protobuf 3.20.3  
-## Diagram
+## Diagram  
 The diagram for implementing the ppq framework on quantization
 ![diagram](img/diagram.png)

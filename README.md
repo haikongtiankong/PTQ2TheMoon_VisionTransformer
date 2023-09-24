@@ -35,11 +35,11 @@ An interesting finding is that FC2 of Block 5 and Block 6 seem to have the large
 
 ## Attention map visionlization
 Full precision model
-<img src="img/Figure_1.png" width="80%" height="80%">
+<img src="img/Figure_1.png" width="100%" height="80%">
 Vanilla Quantizer
-<img src="img/Figure_normC.png" width="80%" height="80%">
+<img src="img/Figure_normC.png" width="100%" height="80%">
 Customized Channel-wise Quantizer
-<img src="img/Figure_quant.png" width="80%" height="80%">
+<img src="img/Figure_quant.png" width="100%" height="80%">
 
 ## Reference of papers or online-resource covered during research
 * Bahdanau, D., Cho, K., & Bengio, Y. (2014). Neural Machine Translation by Jointly Learning to Align and Translate. CoRR, abs/1409.0473. 

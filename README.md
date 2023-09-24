@@ -11,6 +11,7 @@ The diagram for implementing the ppq framework on quantization
 ![diagram](img/diagram.png)
 ## Graph fusion for quantized model  
 Graph fusion refers to the merging of multiple computational operators into one larger computational operator. The main purpose of graph fusion is to reduce the overhead of computation and memory access to improve the inference speed and resource utilization of quantized models.  
+
 **Fused Operators**
 Fused Operators | Base Operators
 ---- | ----

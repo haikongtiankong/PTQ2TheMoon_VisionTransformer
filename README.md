@@ -20,7 +20,9 @@ Gelu | Div(1) --- Erf(2)--- Add(3) --- Mul(4) --- Mul(5)
 PPQBiasFusedMatMul (MatMulAdd) | MatMul(1) --- Add(2)  
 
 ![graph fusion](img/graphFusion.png)  
-### Properties for vanilla quantizers
+## Properties for vanilla quantizers
 Num of bits | Quant max value  | Quant min vlaue | Obeserver algorithm | Policy | Rounding Principle
  ---- | ----- | ------ | ------- | -------- | ---------
 8  | 127 | -128 | 'percentile' for per-tensor | per-tensor & linear & symmetric | round half even
+## Performing Channel-wise quantization on different blocks of Vision Transformer
+

@@ -25,4 +25,5 @@ Num of bits | Quant max value  | Quant min vlaue | Obeserver algorithm | Policy 
  ---- | ----- | ------ | ------- | -------- | ---------
 8  | 127 | -128 | 'percentile' for per-tensor | per-tensor & linear & symmetric | round half even
 ## Performing Channel-wise quantization on different blocks of Vision Transformer
+![channel-wise quant](img/channel_wise_on_vit.png)  
 
